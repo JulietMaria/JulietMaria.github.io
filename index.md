@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Ecommerce website](/sample_page)
+[Ecommerce website](/ECommerce-site)
 <img src="images/box-market-electronic-ordering-shop-basket.jpg?raw=true"/>
 
 ---
