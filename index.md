@@ -4,17 +4,20 @@
 
 ### Projects 
 
-[Ecommerce website](/ECommerce-site)
+[Ecommerce website](/ECommerce-site/ecommerce-site)
 <img src="images/box-market-electronic-ordering-shop-basket.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Travel site](/Travel-site/travel-site)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
