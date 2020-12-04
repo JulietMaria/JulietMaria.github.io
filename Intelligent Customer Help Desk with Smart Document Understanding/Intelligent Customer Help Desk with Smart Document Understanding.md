@@ -1,0 +1,2 @@
+The typical customer care chatbot can answer simple questions. In this project, there will be another option if the customer question is about the operation of a device, the application shall pass the question onto Watson Discovery Service, which has been pre-loaded with the device’s owners manual. So now, instead of directing the query to a customer representative chatbot can return relevant sections of the owners manual to help solve our customers’ problems.
+  - Technologies used: IBM Cloud and Watson Assistant.
