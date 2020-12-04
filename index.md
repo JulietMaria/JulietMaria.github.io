@@ -11,15 +11,18 @@ Repo link : (https://github.com/JulietMaria/Ecommerce-website)
 ---
 [Travel site](/Travel-site/travel-site)  
 <img src="images/TRAVEL_TOURISM_LOGO-02.jpg?raw=true"/>
+
 Repo link : (https://github.com/JulietMaria/Django/tree/main/Travel-site/TravelSite)
 
 ---
 [Bigmart Sales Prediction](BigmartSales/Bigmart-sales-prediction.md)  
 <img src="images/bigmart.jpg?raw=true"/>
+Repo link : (https://github.com/JulietMaria/BigMart-Sales-Prediction)
 
 ---
 [Intelligent Customer Help Desk with Smart Document Understanding](/Intelligent Customer Help Desk with Smart Document Understanding/Intelligent Customer Help Desk with Smart Document Understanding.md)  
 <img src="images/help-desk.png?raw=true"/>
+Repo link : (https://github.com/SmartPracticeschool/llSPS-INT-494-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding)
 
 ---
 
