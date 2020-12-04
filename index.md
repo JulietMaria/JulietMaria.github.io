@@ -14,12 +14,12 @@ Repo link : (https://github.com/JulietMaria/Ecommerce-website)
 Repo link : (https://github.com/JulietMaria/Django/tree/main/Travel-site/TravelSite)
 
 ---
-[Bigmart Sales Prediction](/BigMart-Sales-Prediction/)  
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bigmart Sales Prediction](BigmartSales/Bigmart-sales-prediction.md)  
+<img src="images/bigmart.jpg?raw=true"/>
 
 ---
-[Project 4 Title](http://example.com/)  
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Intelligent Customer Help Desk with Smart Document Understanding](/Intelligent Customer Help Desk with Smart Document Understanding/Intelligent Customer Help Desk with Smart Document Understanding.md)  
+<img src="images/help-desk.png?raw=true"/>
 
 ---
 
