@@ -10,10 +10,11 @@ Repo link : (https://github.com/JulietMaria/Ecommerce-website)
 
 ---
 [Travel site](/Travel-site/travel-site)  
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TRAVEL_TOURISM_LOGO-02.jpg?raw=true"/>
+Repo link : (https://github.com/JulietMaria/Django/tree/main/Travel-site/TravelSite)
 
 ---
-[Project 3 Title](http://example.com/)  
+[Bigmart Sales Prediction](/BigMart-Sales-Prediction/)  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
