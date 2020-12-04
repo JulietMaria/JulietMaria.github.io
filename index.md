@@ -17,6 +17,7 @@ Repo link : (https://github.com/JulietMaria/Django/tree/main/Travel-site/TravelS
 ---
 [Bigmart Sales Prediction](BigmartSales/Bigmart-sales-prediction.md)  
 <img src="images/bigmart.jpg?raw=true"/>
+
 Repo link : (https://github.com/JulietMaria/BigMart-Sales-Prediction)
 
 ---
